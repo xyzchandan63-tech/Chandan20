@@ -43,21 +43,21 @@ body {
 }
 
 #sidebar {
-    background-color:#1D546D ;
+    background-color:#5F9598 ;
     width: 500px;
     padding: 25px;
     margin: auto;
     border-radius: 50px;
     text-align: center;
     margin-bottom: 30px;
-    border: 30px solid #5F9598;
+    border: 30px solid #1d546d;
 }
 #content{
-    background: #1D546D;
+    background: #5F9598;
     padding: 60px;
     border-radius: 30px;
     margin: auto;
-    border: 20px solid #5F9598;
+    border: 20px solid #1D546D;
     width: 500px;
     margin-bottom: 30px;
 }
